@@ -4,13 +4,13 @@
 
 - 💻 Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
 - 💻 Full Stack Software Developer
-- 🌟 Undergraduate Student Researcher - [ORCID](https://orcid.org/0009-0005-7784-007X)
-- 🌟 Research work - [Link](https://drive.google.com/file/d/1K2MEEhHGoryHjXNJkrRlcFC-vtxPN6M_/view?usp=sharing)
-- 🤝 Open for Internships
+- 🌟 Researcher at VIT - [ORCID](https://orcid.org/0009-0005-7784-007X)
+- 🌟 Research work - [Link](https://www.researchgate.net/profile/Ananya-Ghosh-11/research)
+- 🤝 Open for Full-time roles
 - 👯 I’m open to collaborate with anyone on any project.
 - 💬 Ask me about Technology
 - ♟️ I love playing chess.
-- 📄 Know about my experiences: [All my links](https://linktr.ee/A_GHOSH_dev)
+- 📄 Know about my experiences: [All my links](https://a-ghosh-dev.github.io/portfolio/)
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
