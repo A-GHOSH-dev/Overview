@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ananya Ghosh!
 
-## 🎓 I'm an Integrated MTech CSE Student at Vellore Institute of Technology.
+## 🎓 Software Intern at Qualcomm | Researcher at VIT Vellore | MITACS GRI UBC
 
 - 💻 Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
 - 💻 Full Stack Software Developer
