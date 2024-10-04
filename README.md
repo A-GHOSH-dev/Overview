@@ -2,7 +2,7 @@
 
 ## 🎓 Software Intern at Qualcomm | Researcher at VIT Vellore | MITACS GRI UBC
 
-- 💻 Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
+- 💻 Multimodal Large Language Models, Generative AI, Artificial Intelligence, Machine Learning, Deep Learning, Soft computing, Neural networks, Federated Learning, NLP Developer
 - 💻 Full Stack Software Developer
 - 🌟 Researcher at VIT - [ORCID](https://orcid.org/0009-0005-7784-007X)
 - 🌟 Research work - [Link](https://www.researchgate.net/profile/Ananya-Ghosh-11/research)
